@@ -1,4 +1,4 @@
-def letter(s):
+def letters_big(s):
     """This is DOCSTRING"""
     return s.upper()
 
